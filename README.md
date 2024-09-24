@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automatio
  * Databases: PostgreSQL, MySQL, MongoDB
 
 **Projects**<br>
-  **Task Master Pro**
-    * A task management application developed in Java, showcasing best practices in project structure, coding standards, and documentation. Features include task creation, management, and tracking, with a focus 
-       on scalability and maintainability.
-    * Tools & Technologies Used: Java JDK, Apache Maven 3.6.0, SonarQube, Jenkins, Docker, Amazon EKS<br>
+**Task Master Pro**
+* A task management application developed in Java, showcasing best practices in project structure, coding standards, and documentation. Features include task creation, management, and tracking, with a focus on 
+   scalability and maintainability.
+* Tools & Technologies Used: Java JDK, Apache Maven 3.6.0, SonarQube, Jenkins, Docker, Amazon EKS<br>
   **Real-time Mega Monitoring System**
     * Developed a comprehensive monitoring system that continuously tracks application performance, automatically triggers alerts in case of downtime, and sends real-time email notifications to ensure timely 
         issue resolution.
