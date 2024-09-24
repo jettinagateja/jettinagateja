@@ -23,11 +23,11 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automatio
    * A task management application developed in Java, showcasing best practices in project structure, coding
    standards, and documentation. Features include task creation, management, and tracking, with a focus on
    scalability and maintainability.
-   * Tools & Technologies Used: Java JDK, Apache Maven 3.6.0, SonarQube, Jenkins, Docker, Amazon EKS
+   * Tools & Technologies Used: Java JDK, Apache Maven 3.6.0, SonarQube, Jenkins, Docker, Amazon EKS<br>
  **Real-time Mega Monitoring System**<br>
    * Developed a comprehensive monitoring system that continuously tracks application performance, automatically triggers alerts in case of downtime, and sends real-time email notifications to ensure timely issue
      resolution.
-   * Tools Used: Nginx, AWS EC2, Node Exporter, Blackbox Exporter, Prometheus, Alert Manager
+   * Tools Used: Nginx, AWS EC2, Node Exporter, Blackbox Exporter, Prometheus, Alert Manager<br> 
  **Microservice based E-commerce application**<br>
    * Developed and Deployed a microservice based E-commerce application on the AWS EKS cluster using multi-branch Jenkins Pipeline.
    ◦ Tools & Technologies Used: AWS EC2, AWS CLI, EKSCTL, Kubectl, Jenkins, Docker, AWS EKS
