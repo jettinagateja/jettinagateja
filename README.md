@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automation, cloud computing, and development best practices. I love solving problems through code and infrastructure as code (IaC). Currently, I'm building applications and infrastructure that make life easier for developers and teams.
 
-**Technical skills**
+## **Technical skills**
  * **Cloud Technologies:** AWS, Azure
  * **Version Control & CI/CD:** Git, GitHub, Jenkins
  * **Configuration Management & Automation:** Ansible, Terraform
