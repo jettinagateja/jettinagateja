@@ -33,11 +33,11 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automatio
 * **Tools & Technologies Used**: AWS EC2, AWS CLI, EKSCTL, Kubectl, Jenkins, Docker, AWS EKS
 
 
-**Certifications**
+## **Certifications**
    * Microsoft Certified Azure Fundamentals(AZ-900)
    * Google Certified Cloud Digital Leader
 
-**Connect with Me**
+## **Connect with Me**
    * Email: [Email](jettinagateja939@gmail.com)
    * LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/naga-teja-jetti/) for more information.
    * Github: [Github](https://github.com/jettinagateja)
