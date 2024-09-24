@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automatio
  * Databases: PostgreSQL, MySQL, MongoDB
 
 **Projects**
- **Task Master Pro**
+ ***Task Master Pro***
    * A task management application developed in Java, showcasing best practices in project structure, coding
    standards, and documentation. Features include task creation, management, and tracking, with a focus on
    scalability and maintainability.
