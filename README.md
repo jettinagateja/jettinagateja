@@ -5,18 +5,18 @@
 Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automation, cloud computing, and development best practices. I love solving problems through code and infrastructure as code (IaC). Currently, I'm building applications and infrastructure that make life easier for developers and teams.
 
 **Technical skills**
- * Cloud Technologies: AWS, Azure
- * Version Control & CI/CD: Git, GitHub, Jenkins
- * Configuration Management & Automation: Ansible, Terraform
- * Scripting and Programming: Bash, Python
- * Containerization & Orchestration: Docker, Kubernetes, Helm Charts
- * Networking: HTTP/HTTPS, DNS, TCP/IP, NFS, SSH
- * Web Servers: Apache HTTP, nginx
- * API Development/Web Services and Testing tools : SOAP, REST, Postman
- * Caching: Redis
- * Messaging: AWS SQS
- * Monitoring & logging : AWS CloudWatch, Prometheus, Grafana, Loki
- * Databases: PostgreSQL, MySQL, MongoDB
+ * **Cloud Technologies:** AWS, Azure
+ * **Version Control & CI/CD:** Git, GitHub, Jenkins
+ * **Configuration Management & Automation:** Ansible, Terraform
+ * **Scripting and Programming:** Bash, Python
+ * **Containerization & Orchestration:** Docker, Kubernetes, Helm Charts
+ * **Networking:** HTTP/HTTPS, DNS, TCP/IP, NFS, SSH
+ * **Web Servers:** Apache HTTP, nginx
+ * **API Development/Web Services and Testing tools:** SOAP, REST, Postman
+ * **Caching:** Redis
+ * **Messaging:** AWS SQS
+ * **Monitoring & logging:** AWS CloudWatch, Prometheus, Grafana, Loki
+ * **Databases:** PostgreSQL, MySQL, MongoDB
 
 ## **Projects**
 
