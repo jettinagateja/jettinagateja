@@ -24,12 +24,12 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automatio
        on scalability and maintainability.
   * Tools & Technologies Used: Java JDK, Apache Maven 3.6.0, SonarQube, Jenkins, Docker, Amazon EKS<br>
   **Real-time Mega Monitoring System**
-     * Developed a comprehensive monitoring system that continuously tracks application performance, automatically triggers alerts in case of downtime, and sends real-time email notifications to ensure timely 
+    * Developed a comprehensive monitoring system that continuously tracks application performance, automatically triggers alerts in case of downtime, and sends real-time email notifications to ensure timely 
         issue resolution.
-     * Tools Used: Nginx, AWS EC2, Node Exporter, Blackbox Exporter, Prometheus, Alert Manager<br> 
+    * Tools Used: Nginx, AWS EC2, Node Exporter, Blackbox Exporter, Prometheus, Alert Manager<br> 
   **Microservice based E-commerce application**
      * Developed and Deployed a microservice based E-commerce application on the AWS EKS cluster using multi-branch Jenkins Pipeline.
-     ◦ Tools & Technologies Used: AWS EC2, AWS CLI, EKSCTL, Kubectl, Jenkins, Docker, AWS EKS
+     * Tools & Technologies Used: AWS EC2, AWS CLI, EKSCTL, Kubectl, Jenkins, Docker, AWS EKS
 
 **Certifications**
    * Microsoft Certified Azure Fundamentals(AZ-900)
