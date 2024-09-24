@@ -1,5 +1,6 @@
 ## **👋 Hi, I'm Naga Teja**
-**Welcome to my GitHub profile!**
+
+## **Welcome to my GitHub profile!**
 
 ## **About Me** 
 **DevOps Engineer | Cloud Enthusiast | @Accenture**
