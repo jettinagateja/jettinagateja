@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automatio
    * Google Certified Cloud Digital Leader
 
 **Connect with Me**
-   Email: [Email](jettinagateja939@gmail.com)
-   LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/naga-teja-jetti/) for more information.
-   Github: [Github](https://github.com/jettinagateja)
+   * Email: [Email](jettinagateja939@gmail.com)
+   * LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/naga-teja-jetti/) for more information.
+   * Github: [Github](https://github.com/jettinagateja)
 
  Feel Free to Reach out to me for any communications/suggestions/collaborations.
