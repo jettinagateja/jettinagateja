@@ -18,17 +18,17 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automatio
  * Monitoring & logging : AWS CloudWatch, Prometheus, Grafana, Loki
  * Databases: PostgreSQL, MySQL, MongoDB
 
-**Projects**
- ***Task Master Pro***
+**Projects**<br>
+ **Task Master Pro**
    * A task management application developed in Java, showcasing best practices in project structure, coding
    standards, and documentation. Features include task creation, management, and tracking, with a focus on
    scalability and maintainability.
    * Tools & Technologies Used: Java JDK, Apache Maven 3.6.0, SonarQube, Jenkins, Docker, Amazon EKS
- **Real-time Mega Monitoring System**
+ **Real-time Mega Monitoring System**<br>
    * Developed a comprehensive monitoring system that continuously tracks application performance, automatically triggers alerts in case of downtime, and sends real-time email notifications to ensure timely issue
      resolution.
    * Tools Used: Nginx, AWS EC2, Node Exporter, Blackbox Exporter, Prometheus, Alert Manager
- **Microservice based E-commerce application**
+ **Microservice based E-commerce application**<br>
    * Developed and Deployed a microservice based E-commerce application on the AWS EKS cluster using multi-branch Jenkins Pipeline.
    ◦ Tools & Technologies Used: AWS EC2, AWS CLI, EKSCTL, Kubectl, Jenkins, Docker, AWS EKS
 
