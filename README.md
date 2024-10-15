@@ -46,7 +46,7 @@ I'm a skilled DevOps Engineer with a passion for automation, cloud computing, an
    * Google Certified Cloud Digital Leader
 
 ## **My Website**
-   * Website-Link: [Website-Link](http://techyteja.unaux.com/)
+   * Website-Link: [Website](http://techyteja.unaux.com/)
 
 ## **Connect with Me**
    * Email: jettinagateja939@gmail.com
