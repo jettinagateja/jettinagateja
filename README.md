@@ -45,9 +45,12 @@ I'm a skilled DevOps Engineer with a passion for automation, cloud computing, an
    * Microsoft Certified Azure Fundamentals(AZ-900)
    * Google Certified Cloud Digital Leader
 
+## **My Website**
+   * Website-Link: [Website-Link](http://techyteja.unaux.com/)
+
 ## **Connect with Me**
-   * Email: [Email](jettinagateja939@gmail.com)
+   * Email: jettinagateja939@gmail.com
    * LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/naga-teja-jetti/) for more information.
-   * Github: [Github](https://github.com/jettinagateja)
+
 
  Feel Free to Reach out to me for any communications/suggestions/collaborations.
